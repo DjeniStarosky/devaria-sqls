@@ -1,0 +1,1 @@
+# Repositório referente aos arquivos SQL do móduoo de Bando de Dados da Devaria.
